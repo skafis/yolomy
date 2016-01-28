@@ -1,4 +1,6 @@
 
 .main {
+    height: 670px;
     background-image: url(assets/backgrounds/hero.jpg);
+    background-size: cover;
 }
