@@ -11,3 +11,11 @@ h3{
     color: white;
     font-weight: 300px;
 }
+
+header {
+    display: inline-block;
+}
+
+nav {
+    float: right;
+}
