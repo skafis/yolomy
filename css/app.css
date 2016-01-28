@@ -14,8 +14,16 @@ h3{
 
 header {
     display: inline-block;
+
 }
 
 nav {
+    color: white;
     float: right;
+    padding-left: 35%;
+}
+
+
+.text {
+    padding-top: 356px
 }
