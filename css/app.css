@@ -1,6 +1,13 @@
 
 .main {
-    height: 670px;
+    height: 850px;
     background-image: url(assets/backgrounds/hero.jpg);
     background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+h3{
+    color: white;
+    font-weight: 300px;
 }
