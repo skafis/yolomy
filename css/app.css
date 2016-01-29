@@ -31,3 +31,7 @@ nav {
 .button {
     float: right;
 }
+
+.radio {
+    background-color: darkgray;
+}
