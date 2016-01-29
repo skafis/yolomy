@@ -27,3 +27,7 @@ nav {
 .text {
     padding-top: 356px
 }
+
+.button {
+    float: right;
+}
