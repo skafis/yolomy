@@ -9,23 +9,24 @@
 
 h3{
     color: white;
+    font-size: 55px;
     font-weight: 300px;
 }
 
 header {
-    display: inline-block;
+/*    display: inline-block;*/
 
 }
 
-nav {
+.nav nav {
     color: white;
     float: right;
-    padding-left: 35%;
+    padding-left: 55%;
 }
 
 
 .text {
-    padding-top: 356px
+    padding-top: 280px
 }
 
 .button {
@@ -35,4 +36,9 @@ nav {
 .radio {
     background-color: darkgray;
     padding: 20px
+}
+
+.logo {
+    float: left;
+    padding-right: 40%
 }
