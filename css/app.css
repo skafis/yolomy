@@ -45,10 +45,18 @@ header {
 
 .products {
     align-items: center;
+    padding: 3px;
 }
 
 .item {
+    height: 280px;
+    border: solid;
     align-items: center;
     background-color: azure;
+    padding: 15px;
+}
+
+.tshirt {
+    background-color: darkgrey;
     padding: 15px;
 }
