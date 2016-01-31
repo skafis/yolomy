@@ -42,3 +42,13 @@ header {
     float: left;
     padding-right: 40%
 }
+
+.products {
+    align-items: center;
+}
+
+.item {
+    align-items: center;
+    background-color: azure;
+    padding: 15px;
+}
