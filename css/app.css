@@ -60,3 +60,10 @@ header {
     background-color: darkgrey;
     padding: 15px;
 }
+
+.about {
+    height: 450px;
+    background-image: url(assets/backgrounds/about.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
