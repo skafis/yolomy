@@ -67,3 +67,11 @@ header {
     background-size: contain;
     background-repeat: no-repeat;
 }
+
+.text1 {
+    border: solid;
+    margin: 100px;
+    width: 390px;
+    font-size: 20px;
+
+}
