@@ -87,11 +87,18 @@ header {
     background-color: darkgray;
     align-content: center;
     text-align:justify
-    font-size: 17px;
+    font-size: 15px;
     color: white;
+
 }
 
 .icons {
     align-items: center;
     padding: 20px;
+}
+
+
+
+.sector {
+    margin-top: 100px;
 }
