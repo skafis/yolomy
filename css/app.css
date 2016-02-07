@@ -69,12 +69,14 @@ header {
 }
 
 .text1 {
-    border: solid;
-    margin: 100px;
+    margin-top: 100px;
+    margin-right: 80px;
+    margin-left: 300px;
     width: 390px;
     font-size: 20px;
 
 }
+
 
 .promo {
     background-color: dimgray;
@@ -83,7 +85,7 @@ header {
 }
 
 .social {
-    height: 356px;
+    height: 300px;
     background-color: darkgray;
     align-content: center;
     text-align:justify
@@ -101,4 +103,20 @@ header {
 
 .sector {
     margin-top: 100px;
+    text-align: center
+}
+
+.yolo {
+    font-size: 13px;
+    text-align: justify
+}
+.yolo h4{
+    color: white;
+}
+.credit {
+    font-size: 15px;
+    padding: 13px 0px;
+}
+.credit p{
+    font-size: 10px
 }
