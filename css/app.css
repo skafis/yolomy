@@ -45,7 +45,7 @@ header {
 
 .products {
     align-items: center;
-    padding: 3px;
+    padding: 15px;
 }
 
 .item {
@@ -119,4 +119,8 @@ header {
 }
 .credit p{
     font-size: 10px
+}
+
+.pzoducts {
+
 }
